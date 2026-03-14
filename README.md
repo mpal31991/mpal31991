@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Mohit Pal
 
-<!--
-**mpal31991/mpal31991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+📱 Android Developer (Java + XML)
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- XML
+- Android Development
+- SQL
+- Git/GitHub
+- C language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projects
+
+### Keep-Dos (To Do App)
+Task management app with reminders and notifications.
+
+Features:
+- Add / Edit / Delete tasks
+- Categories
+- Search
+- Task reminders
+- Notifications
+
+Tech Stack:
+Java, XML, Room Database, AlarmManager, Material Design
+
+GitHub Repo:
+https://github.com/mpal31991/Keep-Dos.git
+
+## 📫 Connect With Me
+LinkedIn:
+https://www.linkedin.com/in/mohit-pal-40195833a
